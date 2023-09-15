@@ -1,2 +1,5 @@
 print("Hello")
 print("Welcome back")
+print(898)
+print(345)
+print(4678)
